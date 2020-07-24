@@ -57,6 +57,7 @@ function handleSymbol(value){
     }
 }
 
+
 function handleMath(value){
     const intBuffer = parseInt(buffer);
     if(runningTotal === 0){
