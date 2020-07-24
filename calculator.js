@@ -57,6 +57,9 @@ function handleSymbol(value){
     }
 }
 
+function a(){
+    
+}
 
 function handleMath(value){
     const intBuffer = parseInt(buffer);
